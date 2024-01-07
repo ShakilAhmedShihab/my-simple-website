@@ -4,11 +4,17 @@ div{
     margin-bottom: 10px;
     border-radius: 5px;
 }
-.div{
+.div3{
 
     background-color: bisque;
     padding: 10px;
     border-radius: 30px;
     
 
+}
+img{
+    height: 10px;
+    width: 30px;
+    text-align: center;
+    
 }
